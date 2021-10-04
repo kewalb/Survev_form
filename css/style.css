@@ -1,0 +1,46 @@
+#main-form{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#f-name{
+    margin-right: 10px;
+}
+
+#label-down{
+    display: flex;
+    margin: 0;
+}
+
+p{
+    font-size: small;
+}
+
+#p-last{
+    margin-left: 190px;
+}
+
+.fa{
+    font-size: 16px;
+    margin-right: 9px;
+}
+
+.checked{
+    color: orange;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+td, th {
+    text-align: center;
+    padding: 8px;
+  }
+  
+tr:nth-child(even) {
+    background-color: #f3e7e7;
+  }
